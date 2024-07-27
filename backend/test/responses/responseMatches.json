@@ -1,0 +1,508 @@
+{
+	"error": false,
+	"sources": [
+		{
+			"source": "SDN",
+			"name": "OFAC SDN",
+			"publishDate": "2024-07-25",
+			"downloadDate": "2024-07-18T21:08:56.202431"
+		}
+	],
+	"results": [
+		{
+			"name": "Abu Abbas",
+			"matchCount": 6,
+			"matches": [
+				{
+					"id": "sdn-abu-abbas",
+					"type": "Person",
+					"categories": [
+						"sanction"
+					],
+					"source": "SDN",
+					"sourceId": "2674",
+					"name": "Abu ABBAS",
+					"nameFormatted": "abu abbas",
+					"entityLink": "https://www.ofac-api.com/entities/sdn-abu-abbas",
+					"alias": [
+						{
+							"id": "1795",
+							"name": "Muhammad ZAYDAN",
+							"firstName": "Muhammad",
+							"lastName": "ZAYDAN",
+							"comment": "strong"
+						}
+					],
+					"programs": [
+						"SDGT"
+					],
+					"personDetails": {
+						"firstName": "Abu",
+						"lastName": "ABBAS",
+						"title": "Director of PALESTINE LIBERATION FRONT - ABU ABBAS FACTION",
+						"birthDates": [
+							"10 Dec 1948"
+						],
+						"citizenships": [
+						],
+						"nationalities": [
+						],
+						"positions": [
+						]
+					}
+				},
+				{
+					"id": "sdn-palestine-liberation-front-abu-abbas-faction",
+					"type": "Organization",
+					"categories": [
+						"sanction"
+					],
+					"source": "SDN",
+					"sourceId": "4708",
+					"name": "PALESTINE LIBERATION FRONT - ABU ABBAS FACTION",
+					"nameFormatted": "palestine liberation front   abu abbas faction",
+					"entityLink": "https://www.ofac-api.com/entities/sdn-palestine-liberation-front-abu-abbas-faction",
+					"alias": [
+						{
+							"id": "3968",
+							"name": "PALESTINE LIBERATION FRONT",
+							"lastName": "PALESTINE LIBERATION FRONT",
+							"comment": "strong"
+						},
+						{
+							"id": "3969",
+							"name": "PLF",
+							"lastName": "PLF",
+							"comment": "strong"
+						},
+						{
+							"id": "3970",
+							"name": "PLF-ABU ABBAS",
+							"lastName": "PLF-ABU ABBAS",
+							"comment": "strong"
+						}
+					],
+					"programs": [
+						"FTO",
+						"SDGT"
+					]
+				},
+				{
+					"id": "sdn-abbas-loutfe-fawaz",
+					"type": "Person",
+					"categories": [
+						"sanction"
+					],
+					"source": "SDN",
+					"sourceId": "13416",
+					"name": "Abbas Loutfe FAWAZ",
+					"nameFormatted": "abbas loutfe fawaz",
+					"entityLink": "https://www.ofac-api.com/entities/sdn-abbas-loutfe-fawaz",
+					"alias": [
+						{
+							"id": "22913",
+							"name": "Abbas FOUAZ",
+							"firstName": "Abbas",
+							"lastName": "FOUAZ",
+							"comment": "strong"
+						},
+						{
+							"id": "23333",
+							"name": "'Abbas Abu-Ahmad FAWWAZ",
+							"firstName": "'Abbas Abu-Ahmad",
+							"lastName": "FAWWAZ",
+							"comment": "strong"
+						}
+					],
+					"additionalSanctions": [
+						"Subject to Secondary Sanctions Pursuant to the Hizballah Financial Sanctions Regulations"
+					],
+					"programs": [
+						"SDGT"
+					],
+					"addresses": [
+						{
+							"id": "23136",
+							"city": "Dakar",
+							"country": "Senegal",
+							"fullAddress": "Dakar, Senegal"
+						}
+					],
+					"identifications": [
+						{
+							"id": "8317",
+							"type": "Personal ID Card",
+							"idNumber": "096574S",
+							"country": "Senegal"
+						}
+					],
+					"personDetails": {
+						"firstName": "Abbas Loutfe",
+						"lastName": "FAWAZ",
+						"birthDates": [
+							"07 Aug 1978"
+						],
+						"citizenships": [
+							"Lebanon",
+							"Senegal"
+						],
+						"nationalities": [
+						],
+						"positions": [
+						]
+					}
+				},
+				{
+					"id": "sdn-al-mulathamun-battalion",
+					"type": "Organization",
+					"categories": [
+						"sanction"
+					],
+					"source": "SDN",
+					"sourceId": "16446",
+					"name": "AL-MULATHAMUN BATTALION",
+					"nameFormatted": "al mulathamun battalion",
+					"entityLink": "https://www.ofac-api.com/entities/sdn-al-mulathamun-battalion",
+					"alias": [
+						{
+							"id": "24838",
+							"name": "AL-MULATHAMUN BRIGADE",
+							"lastName": "AL-MULATHAMUN BRIGADE",
+							"comment": "strong"
+						},
+						{
+							"id": "24839",
+							"name": "AL-MUWAQQI'UN BIL-DIMA",
+							"lastName": "AL-MUWAQQI'UN BIL-DIMA",
+							"comment": "strong"
+						},
+						{
+							"id": "24840",
+							"name": "THOSE SIGNED IN BLOOD BATTALION",
+							"lastName": "THOSE SIGNED IN BLOOD BATTALION",
+							"comment": "strong"
+						},
+						{
+							"id": "24841",
+							"name": "SIGNATORIES IN BLOOD",
+							"lastName": "SIGNATORIES IN BLOOD",
+							"comment": "strong"
+						},
+						{
+							"id": "24842",
+							"name": "THOSE WHO SIGN IN BLOOD",
+							"lastName": "THOSE WHO SIGN IN BLOOD",
+							"comment": "strong"
+						},
+						{
+							"id": "24843",
+							"name": "WITNESSES IN BLOOD",
+							"lastName": "WITNESSES IN BLOOD",
+							"comment": "weak"
+						},
+						{
+							"id": "24844",
+							"name": "SIGNED-IN-BLOOD BATTALION",
+							"lastName": "SIGNED-IN-BLOOD BATTALION",
+							"comment": "strong"
+						},
+						{
+							"id": "24845",
+							"name": "MASKED MEN BRIGADE",
+							"lastName": "MASKED MEN BRIGADE",
+							"comment": "weak"
+						},
+						{
+							"id": "24846",
+							"name": "KHALED ABU AL-ABBAS BRIGADE",
+							"lastName": "KHALED ABU AL-ABBAS BRIGADE",
+							"comment": "strong"
+						},
+						{
+							"id": "24847",
+							"name": "AL-MULATHAMUN MASKED ONES BRIGADE",
+							"lastName": "AL-MULATHAMUN MASKED ONES BRIGADE",
+							"comment": "strong"
+						},
+						{
+							"id": "24848",
+							"name": "AL-MURABITOUN",
+							"lastName": "AL-MURABITOUN",
+							"comment": "strong"
+						},
+						{
+							"id": "24849",
+							"name": "THE SENTINELS",
+							"lastName": "THE SENTINELS",
+							"comment": "weak"
+						}
+					],
+					"programs": [
+						"FTO",
+						"SDGT"
+					],
+					"addresses": [
+						{
+							"id": "24831",
+							"country": "Algeria",
+							"fullAddress": "Algeria"
+						},
+						{
+							"id": "24832",
+							"country": "Mali",
+							"fullAddress": "Mali"
+						}
+					]
+				},
+				{
+					"id": "sdn-adil-abduh-fari-uthman-al-dhubhani",
+					"type": "Person",
+					"categories": [
+						"sanction"
+					],
+					"source": "SDN",
+					"sourceId": "23043",
+					"name": "Adil Abduh Fari Uthman AL-DHUBHANI",
+					"nameFormatted": "adil abduh fari uthman al dhubhani",
+					"entityLink": "https://www.ofac-api.com/entities/sdn-adil-abduh-fari-uthman-al-dhubhani",
+					"alias": [
+						{
+							"id": "36192",
+							"name": "ABU AL-ABBAS",
+							"lastName": "ABU AL-ABBAS",
+							"comment": "weak"
+						},
+						{
+							"id": "36193",
+							"name": "Adil Abdu Bin-Fari BIN-UTHMAN",
+							"firstName": "Adil Abdu Bin-Fari",
+							"lastName": "BIN-UTHMAN",
+							"comment": "strong"
+						},
+						{
+							"id": "36194",
+							"name": "Adil Muhammad Abdu FARI",
+							"firstName": "Adil Muhammad Abdu",
+							"lastName": "FARI",
+							"comment": "strong"
+						},
+						{
+							"id": "36195",
+							"name": "Adil Fari AL-MALKAB",
+							"firstName": "Adil Fari",
+							"lastName": "AL-MALKAB",
+							"comment": "strong"
+						},
+						{
+							"id": "36196",
+							"name": "ADIL ABD FARI",
+							"lastName": "ADIL ABD FARI",
+							"comment": "weak"
+						},
+						{
+							"id": "36197",
+							"name": "Adil Mohammad Abdu FAZI",
+							"firstName": "Adil Mohammad Abdu",
+							"lastName": "FAZI",
+							"comment": "strong"
+						},
+						{
+							"id": "36199",
+							"name": "ADIL ABDU FAARI'A",
+							"lastName": "ADIL ABDU FAARI'A",
+							"comment": "weak"
+						},
+						{
+							"id": "36200",
+							"name": "ADIL ABDU FAREA",
+							"lastName": "ADIL ABDU FAREA",
+							"comment": "weak"
+						},
+						{
+							"id": "36201",
+							"name": "ADIL ABDU FAAREA",
+							"lastName": "ADIL ABDU FAAREA",
+							"comment": "weak"
+						},
+						{
+							"id": "36202",
+							"name": "ADIL ABDU FARIA",
+							"lastName": "ADIL ABDU FARIA",
+							"comment": "weak"
+						},
+						{
+							"id": "36203",
+							"name": "'ADIL 'ABDIH FAR'A",
+							"lastName": "'ADIL 'ABDIH FAR'A",
+							"comment": "weak"
+						},
+						{
+							"id": "36204",
+							"name": "Adil Abd Fari AL-MAKANI",
+							"firstName": "Adil Abd Fari",
+							"lastName": "AL-MAKANI",
+							"comment": "strong"
+						},
+						{
+							"id": "36205",
+							"name": "FARI, Abu-al-Abbas Adil Abdu",
+							"lastName": "FARI, Abu-al-Abbas Adil Abdu",
+							"comment": "weak"
+						},
+						{
+							"id": "36206",
+							"name": "FARI, Abu-al-Abbas Adil Abduh",
+							"lastName": "FARI, Abu-al-Abbas Adil Abduh",
+							"comment": "weak"
+						},
+						{
+							"id": "36207",
+							"name": "AMIR MUMININ",
+							"lastName": "AMIR MUMININ",
+							"comment": "weak"
+						},
+						{
+							"id": "36208",
+							"name": "AMIR MUMINEN",
+							"lastName": "AMIR MUMINEN",
+							"comment": "weak"
+						},
+						{
+							"id": "36311",
+							"name": "ADIL ABDAH FARI",
+							"lastName": "ADIL ABDAH FARI",
+							"comment": "weak"
+						},
+						{
+							"id": "36312",
+							"name": "ADEL ABDUH FAREA'A",
+							"lastName": "ADEL ABDUH FAREA'A",
+							"comment": "weak"
+						}
+					],
+					"programs": [
+						"SDGT"
+					],
+					"remarks": "(Linked To: AL-QA'IDA IN THE ARABIAN PENINSULA; Linked To: ISIL-YEMEN)",
+					"addresses": [
+						{
+							"id": "34788",
+							"city": "Ta'izz City",
+							"stateOrProvince": "Ta'izz Governorate",
+							"country": "Yemen",
+							"fullAddress": "Ta'izz City, Ta'izz Governorate Yemen"
+						},
+						{
+							"id": "34789",
+							"address1": "Almqwat Mahtah Ahmed Sif",
+							"city": "Taiz City",
+							"stateOrProvince": "Taiz Governorate",
+							"country": "Yemen",
+							"fullAddress": "Almqwat Mahtah Ahmed Sif, Taiz City, Taiz Governorate Yemen"
+						}
+					],
+					"identifications": [
+						{
+							"id": "14475",
+							"type": "National ID No.",
+							"idNumber": "01010013602",
+							"country": "Yemen"
+						}
+					],
+					"personDetails": {
+						"firstName": "Adil Abduh Fari Uthman",
+						"lastName": "AL-DHUBHANI",
+						"gender": "Male",
+						"birthDates": [
+							"15 Jul 1963",
+							"1971"
+						],
+						"citizenships": [
+						],
+						"nationalities": [
+							"Yemen"
+						],
+						"positions": [
+						]
+					}
+				},
+				{
+					"id": "sdn-kataib-sayyid-al-shuhada",
+					"type": "Organization",
+					"categories": [
+						"sanction"
+					],
+					"source": "SDN",
+					"sourceId": "46348",
+					"name": "KATA'IB SAYYID AL-SHUHADA",
+					"nameFormatted": "kataib sayyid al shuhada",
+					"entityLink": "https://www.ofac-api.com/entities/sdn-kataib-sayyid-al-shuhada",
+					"alias": [
+						{
+							"id": "71534",
+							"name": "KSS",
+							"lastName": "KSS",
+							"comment": "weak"
+						},
+						{
+							"id": "71535",
+							"name": "BATTALION OF THE SAYYID'S MARTYRS",
+							"lastName": "BATTALION OF THE SAYYID'S MARTYRS",
+							"comment": "strong"
+						},
+						{
+							"id": "71536",
+							"name": "THE MASTER OF THE MARTYRS BRIGADE",
+							"lastName": "THE MASTER OF THE MARTYRS BRIGADE",
+							"comment": "strong"
+						},
+						{
+							"id": "71537",
+							"name": "KATA'IB ABU FADL AL-ABBAS",
+							"lastName": "KATA'IB ABU FADL AL-ABBAS",
+							"comment": "strong"
+						},
+						{
+							"id": "71538",
+							"name": "KATA'IB KARBALA",
+							"lastName": "KATA'IB KARBALA",
+							"comment": "strong"
+						}
+					],
+					"programs": [
+						"SDGT"
+					],
+					"addresses": [
+						{
+							"id": "68950",
+							"country": "Iraq",
+							"fullAddress": "Iraq"
+						},
+						{
+							"id": "68951",
+							"country": "Syria",
+							"fullAddress": "Syria"
+						},
+						{
+							"id": "68952",
+							"country": "Lebanon",
+							"fullAddress": "Lebanon"
+						}
+					],
+					"identifications": [
+						{
+							"id": "167193",
+							"type": "Secondary sanctions risk:",
+							"idNumber": "section 1(b) of Executive Order 13224, as amended by Executive Order 13886"
+						},
+						{
+							"id": "167132",
+							"type": "Website",
+							"idNumber": "www.saidshuhada.com"
+						}
+					]
+				}
+			]
+		}
+	]
+}

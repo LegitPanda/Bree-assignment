@@ -1,0 +1,17 @@
+{
+	"error": false,
+	"sources": [
+		{
+			"source": "SDN",
+			"name": "OFAC SDN",
+			"publishDate": "2024-07-25",
+			"downloadDate": "2024-07-18T21:08:56.202431"
+		}
+	],
+	"results": [
+		{
+			"name": "bill cosby",
+			"matchCount": 0
+		}
+	]
+}

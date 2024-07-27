@@ -1,0 +1,57 @@
+{
+	"error": false,
+	"sources": [
+		{
+			"source": "SDN",
+			"name": "OFAC SDN",
+			"publishDate": "2024-07-25",
+			"downloadDate": "2024-07-18T21:09:06.809048"
+		}
+	],
+	"results": [
+		{
+			"name": "Muhammad ZAYDAN",
+			"matchCount": 1,
+			"matches": [
+				{
+					"id": "sdn-abu-abbas",
+					"type": "Person",
+					"categories": [
+						"sanction"
+					],
+					"source": "SDN",
+					"sourceId": "2674",
+					"name": "Abu ABBAS",
+					"nameFormatted": "abu abbas",
+					"entityLink": "https://www.ofac-api.com/entities/sdn-abu-abbas",
+					"alias": [
+						{
+							"id": "1795",
+							"name": "Muhammad ZAYDAN",
+							"firstName": "Muhammad",
+							"lastName": "ZAYDAN",
+							"comment": "strong"
+						}
+					],
+					"programs": [
+						"SDGT"
+					],
+					"personDetails": {
+						"firstName": "Abu",
+						"lastName": "ABBAS",
+						"title": "Director of PALESTINE LIBERATION FRONT - ABU ABBAS FACTION",
+						"birthDates": [
+							"10 Dec 1948"
+						],
+						"citizenships": [
+						],
+						"nationalities": [
+						],
+						"positions": [
+						]
+					}
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,43 @@
+---
+import SDNLookup from '../components/sdnForm';
+import Layout from '../layouts/Layout.astro';
+
+
+---
+
+<Layout title="SDN Lookup">
+	<SDNLookup client:load>
+</Layout>
+<!-- 
+<script>
+	let results = []; // Store the results from the fetch call
+
+	async function handleSubmit(event) {
+		event.preventDefault(); // Prevent default form submission
+
+		const name = document.getElementById('name').value;
+		const country = document.getElementById('country').value;
+		const year = document.getElementById('year').value;
+
+		try {
+			const response = await fetch('/api/lookup', {
+				method: 'POST',
+				headers: {
+					'Content-Type': 'application/json',
+				},
+				body: JSON.stringify({ name, country, year }),
+			});
+
+			if (!response.ok) {
+				throw new Error(`HTTP error! status: ${response.status}`);
+			}
+
+			const data = await response.json();
+			results = data; // Update the results array
+			document.getElementById('results').style.display = 'block'; // Show the results section
+		} catch (error) {
+			console.error('Error fetching data:', error);
+			// Handle the error appropriately (e.g., display an error message)
+		}
+	}
+</script> -->
