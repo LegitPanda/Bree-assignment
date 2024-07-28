@@ -1,7 +1,6 @@
 import { Show } from "solid-js";
 
 export const Checkmark = (props) => {
-	console.log("checkmark", props.value);
 	return (
 		<>
 			<Show when={props.value === true}>
